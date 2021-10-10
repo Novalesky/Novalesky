@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Novalesky
 - 👀 I’m interested in learn and work with this super power call programation.
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning javaScript, css, html and git/github
 - 📫 How to reach me ronaldsilvadelima01@gmail.com
 
 <!---
