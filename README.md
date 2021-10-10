@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Novalesky
-- 👀 I’m interested in learn this super power call, programation
+- 👀 I’m interested in learn and work with this super power call programation.
 - 🌱 I’m currently learning javaScript
 - 📫 How to reach me ronaldsilvadelima01@gmail.com
 
